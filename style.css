@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #f5f0e7;
+    background-color: #080101;
     font-family: 'Mulish', sans-serif;
     display: flex;
     justify-content: center;
@@ -128,7 +128,7 @@ body {
     width: 50%;
     transition: all 0.8s;
     transform: translateX(0);
-    background-color: #8f0a25;
+    background-image: url('images/imagem1.gif');
     z-index: 1;
     overflow: hidden;
     z-index: 5;
